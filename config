@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github:PiBytes1111/ARM-Programs.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
